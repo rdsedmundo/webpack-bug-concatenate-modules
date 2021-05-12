@@ -1,0 +1,9 @@
+{
+  "name": "@acme/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@acme/dep": "1.0.0"
+  }
+}
